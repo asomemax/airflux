@@ -14,8 +14,8 @@ import java.util.Vector;
  * 
  * 
  */
-public class Center {
+public class Central {
 	public static void main(String[] args) {
-
+		System.out.println("AIRFLUX V0.0.1 \n Current functionality : \n Create Shape \n ");
 	}
 }
